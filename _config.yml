@@ -15,10 +15,8 @@ author: Created by Reo Yoo
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Research: "research"
+  Google Scholar Page: "https://scholar.google.com/citations?user=6Q81xNoAAAAJ&hl=en"
 
 # --- Logo --- #
 
