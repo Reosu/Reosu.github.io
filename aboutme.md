@@ -14,7 +14,7 @@ I was born in Singapore but moved to the States when I was quite young. I've bee
 
 I'm proudly a Triton from University of California, San Diego! I graduated with a BS in Bioengineering in 2020, and then joined the BS/MS program in the same department. I recieved my Masters in Bioengineering in 2021, focusing my research and my thesis on Bioinformatics analysis on M. tuberculosis. You can check out more on my [Research Page](https://scholar.google.com/citations?user=6Q81xNoAAAAJ&hl=en).
 
-![Triton]("https://www.nicepng.com/png/detail/63-634175_ucsd-triton-logo-png.png"){: .mx-auto.d-block :}
+![Triton](/assets/img/triton_logo.jpg){: .mx-auto.d-block :}
 
 ## Hobbies
 
